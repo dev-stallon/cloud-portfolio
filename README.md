@@ -91,4 +91,6 @@ MATLAB/Simulink · AutoCAD Electrical · LabVIEW · PCB Design
 
 ---
 
-✨ *This README doubles as my CV and the foundation of my cloud portfolio. Future commits will document projects, deployments, and cloud experiments.*  
+✨ *This README doubles as my CV and the foundation of my cloud portfolio. Future commits will document projects, deployments, and cloud experiments.* 
+
+END
